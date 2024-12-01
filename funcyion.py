@@ -4,7 +4,7 @@ def hello_who(name):
 
 def salary(hours, salary_by_hour):
     '''Расчет ЗП сотрудника
-    :param hours: количество часов
+    :param hours: количтво часов
     :param solary_b_our: зарплата за час
     :return: итоговая сумма'''
     k = 2
